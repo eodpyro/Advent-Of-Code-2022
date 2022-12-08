@@ -6,7 +6,6 @@ Problem can be found at: https://adventofcode.com/2022/day/4 */
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <sstream>
 
 using namespace std;
 
